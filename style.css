@@ -1,0 +1,35 @@
+*{
+    background-color: hsl(47, 88%, 63%);
+}
+#card{
+    margin-top: 100px;
+    box-shadow: 3px 3px 0px 3px;
+}
+#button{
+    background-color: hsl(47, 88%, 63%);
+    color: black;
+    font-weight: 500;
+}
+#date{
+    font-size: 0.7rem;
+    color: hsl(0, 0%, 7%);
+}
+#title{
+    font-size: large;
+    font-weight: 700;
+}
+#content{
+    color: hsl(0, 0%, 42%);
+    font-size:0.9rem;
+}
+#name{
+    font-size: small;
+    font-weight: 700;
+}
+#button:hover{
+    background-color: black;
+    color: hsl(47, 88%, 63%);
+}
+#title:hover{
+    color: hsl(47, 88%, 63%);
+}
